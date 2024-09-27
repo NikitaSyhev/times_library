@@ -15,4 +15,6 @@
 `setClock()` - функция устанавливает таймер на страницу.<br>
 `updateClock()` - функция обновляет таймер. Ее мы передаем в setInterval().<br>
 
+![alt text](image.png)
+
 
